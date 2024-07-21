@@ -1,4 +1,6 @@
 ## Hi there 👋
+🔭 I’m currently working on Moonland Meta, ReSprytile and Fear the Crow
+📫 How to reach me: https://ionthedev.com
 
 <!--
 **ionthedev/ionthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
