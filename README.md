@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20everyone,%20Ion%20here&width=550&height=350)](https://github.com/Akshay090/svg-banners)
+![SVG Banners](https://raw.githubusercontent.com/ionthedev/ionthedev/c78971db8af708fc3a7fb90cbe86a378d0d50ddf/github_banner.svg)
 - 🔭 I’m currently working on Fear the Crow, Phantom Engine, Moonland Meta, and ReSprytile
 
 # Tech and Tools I have experience in.
