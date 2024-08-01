@@ -13,11 +13,26 @@
      style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;paint-order:normal"
      id="defs3">
     <linearGradient
+       id="linearGradient410">
+      <stop
+         style="stop-color:#2f3035;stop-opacity:1;"
+         offset="0"
+         id="stop411" />
+      <stop
+         style="stop-color:#865a3c;stop-opacity:1;"
+         offset="0.6117968"
+         id="stop413" />
+      <stop
+         style="stop-color:#2f3035;stop-opacity:1;"
+         offset="1"
+         id="stop412" />
+    </linearGradient>
+    <linearGradient
        x1="0.87968099"
        y1="0.5"
        x2="0.012735172"
        y2="0.5"
-       id="linearGradient331"
+       id="linearGradient407"
        style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;paint-order:normal"
        gradientUnits="objectBoundingBox"
        spreadMethod="pad">
@@ -25,49 +40,53 @@
          stop-color="#1F202E"
          offset="0%"
          style="baseline-shift: 0px; paint-order: normal; stop-color: rgb(31, 32, 46); text-decoration: none solid rgb(0, 0, 0);"
-         id="stop329" />
+         id="stop405" />
       <stop
          stop-color="#865A3C"
-         offset="0.38581416"
-         style="baseline-shift: 0px; paint-order: normal; stop-color: rgb(134, 90, 60); text-decoration: none solid rgb(0, 0, 0);"
-         id="stop330" />
+         offset="0.67687738"
+         style="stop-color:#80563a;stop-opacity:1;"
+         id="stop406" />
       <stop
          stop-color="#1F202E"
          offset="100%"
          style="baseline-shift: 0px; paint-order: normal; stop-color: rgb(31, 32, 46); text-decoration: none solid rgb(0, 0, 0);"
-         id="stop331" />
+         id="stop407" />
     </linearGradient>
     <linearGradient
        x1="0.87968099"
        y1="0.5"
        x2="0.012735172"
        y2="0.5"
-       id="linearGradient8"
-       style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;paint-order:normal">
+       id="linearGradient374"
+       style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;paint-order:normal"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
       <stop
          stop-color="#1F202E"
          offset="0"
-         style="stop-color:#1f202e;stop-opacity:0.24765868;"
-         id="stop6" />
+         style="stop-color:#ffffff;stop-opacity:0.74079263;"
+         id="stop372" />
       <stop
          stop-color="#865A3C"
          offset="0.67687738"
-         style="stop-color:#865a3c;stop-opacity:0.36090943;"
-         id="stop7" />
+         style="stop-color:#bb8867;stop-opacity:0.27329755;"
+         id="stop373" />
       <stop
          stop-color="#1F202E"
          offset="1"
-         style="stop-color:#1f202e;stop-opacity:0.20589356;"
-         id="stop8" />
+         style="stop-color:#ffffff;stop-opacity:0.07619733;"
+         id="stop374" />
     </linearGradient>
     <linearGradient
-       x1="0.87968099"
-       y1="0.5"
-       x2="0.012735172"
-       y2="0.5"
+       x1="237.40812"
+       y1="501.63855"
+       x2="135.66672"
+       y2="501.63855"
        id="linearGradient-1"
        style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;paint-order:normal"
-       xlink:href="#linearGradient331">
+       xlink:href="#linearGradient407"
+       gradientTransform="scale(2.3133641,0.43227091)"
+       gradientUnits="userSpaceOnUse">
       <stop
          stop-color="#1F202E"
          offset="0%"
@@ -84,26 +103,6 @@
          style="baseline-shift: 0px; paint-order: normal; stop-color: rgb(31, 32, 46); text-decoration: none solid rgb(0, 0, 0);"
          id="stop3" />
     </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient8"
-       id="linearGradient6"
-       x1="198.32977"
-       y1="598.59662"
-       x2="113.96942"
-       y2="598.59662"
-       gradientTransform="matrix(2.7604974,0,0,0.36225356,0,-534.84958)"
-       gradientUnits="userSpaceOnUse" />
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter256"
-       x="-0.016857213"
-       y="-0.12242775"
-       width="1.0337144"
-       height="1.2448555">
-      <feGaussianBlur
-         stdDeviation="1.7981576"
-         id="feGaussianBlur256" />
-    </filter>
     <filter
        style="color-interpolation-filters:sRGB"
        id="filter331"
@@ -117,33 +116,63 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter332"
-       x="-0.053337103"
-       y="-0.3873678"
-       width="1.1066742"
-       height="1.7747356">
+       id="filter410"
+       x="-0.03023275"
+       y="-0.21956936"
+       width="1.0604655"
+       height="1.4391387">
       <feGaussianBlur
-         stdDeviation="5.6894644"
-         id="feGaussianBlur332" />
+         stdDeviation="3.2249251"
+         id="feGaussianBlur410" />
     </filter>
     <linearGradient
-       xlink:href="#linearGradient-1"
-       id="linearGradient2"
-       x1="222.58232"
-       y1="532.51859"
-       x2="129.15844"
-       y2="532.51859"
-       gradientTransform="scale(2.455771,0.4072041)"
+       xlink:href="#linearGradient410"
+       id="linearGradient412"
+       x1="318.12891"
+       y1="216.84375"
+       x2="574.13672"
+       y2="216.84375"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#linearGradient374"
+       id="radialGradient423"
+       cx="446.13281"
+       cy="216.84375"
+       fx="446.13281"
+       fy="216.84375"
+       r="128.50391"
+       gradientTransform="matrix(1,0,0,0.1410463,0,186.25874)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       xlink:href="#linearGradient-1"
-       id="linearGradient3"
-       x1="201.61365"
-       y1="584.37813"
-       x2="119.2571"
-       y2="584.37813"
-       gradientTransform="scale(2.6949273,0.37106753)"
-       gradientUnits="userSpaceOnUse" />
+       xlink:href="#linearGradient410"
+       id="linearGradient423"
+       gradientUnits="userSpaceOnUse"
+       x1="318.12891"
+       y1="216.84375"
+       x2="574.13672"
+       y2="216.84375"
+       gradientTransform="translate(0,-528.8609)" />
+    <radialGradient
+       xlink:href="#linearGradient374"
+       id="radialGradient424"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.1410463,0,-342.60216)"
+       cx="446.13281"
+       cy="216.84375"
+       fx="446.13281"
+       fy="216.84375"
+       r="128.50391" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter424"
+       x="-0.083207768"
+       y="-0.60430748"
+       width="1.1664155"
+       height="2.208615">
+      <feGaussianBlur
+         stdDeviation="8.667433"
+         id="feGaussianBlur424" />
+    </filter>
   </defs>
   <g
      id="Page-1"
@@ -169,11 +198,11 @@
          id="gh-title-reflection"
          fill="url(#linearGradient-1)"
          font-size="48"
-         style="font-size:48px;line-height:55.2px;font-feature-settings:normal;font-variation-settings:normal;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;display:block;fill:url(#linearGradient2);paint-order:normal;filter:url(#filter256)"><tspan
+         style="font-size:48px;line-height:55.2px;font-feature-settings:normal;font-variation-settings:normal;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;display:block;mix-blend-mode:normal;fill:url(#linearGradient-1);paint-order:normal;filter:url(#filter410)"><tspan
            x="444"
            y="234"
            text-anchor="middle"
-           style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;text-anchor:middle;fill:url(#linearGradient2);paint-order:normal"
+           style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;text-anchor:middle;fill:url(#linearGradient-1);paint-order:normal"
            id="tspan3">Ion The Dev</tspan></text>
       <text
          id="gh-title-reflection-copy"
@@ -200,27 +229,28 @@
            style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;text-anchor:middle;fill:#4d4e56;fill-opacity:0.21585;paint-order:normal"
            id="tspan5">Making Fear the Crow, Phantom Engine and Moonland Meta</tspan></text>
       <text
-         id="text6"
-         fill="url(#linearGradient-1)"
-         font-size="48"
-         style="font-size:48px;line-height:55.2px;font-feature-settings:normal;font-variation-settings:normal;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;display:inline;fill:url(#linearGradient6);paint-order:normal;filter:url(#filter332)"
-         y="-534.84961"
-         transform="scale(1,-1)"><tspan
-           x="444"
-           y="-300.84958"
-           text-anchor="middle"
-           style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;text-anchor:middle;fill:url(#linearGradient6);paint-order:normal"
-           id="tspan6">Ion The Dev</tspan></text>
-      <text
          id="text256"
          fill="url(#linearGradient-1)"
          font-size="48"
-         style="font-size:48px;line-height:55.2px;font-feature-settings:normal;font-variation-settings:normal;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;display:block;fill:url(#linearGradient3);paint-order:normal"><tspan
+         style="font-size:48px;line-height:55.2px;font-feature-settings:normal;font-variation-settings:normal;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;display:block;fill:url(#linearGradient412);fill-opacity:1;stroke:url(#radialGradient423);paint-order:normal"><tspan
            x="444"
            y="234"
            text-anchor="middle"
-           style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;text-anchor:middle;fill:url(#linearGradient3);paint-order:normal"
+           style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;text-anchor:middle;fill:url(#linearGradient412);fill-opacity:1;stroke:url(#radialGradient423);paint-order:normal"
            id="tspan256">Ion The Dev</tspan></text>
+      <text
+         id="text423"
+         fill="url(#linearGradient-1)"
+         font-size="48"
+         style="font-size:48px;line-height:55.2px;font-feature-settings:normal;font-variation-settings:normal;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;display:block;fill:url(#linearGradient423);fill-opacity:1;stroke:url(#radialGradient424);paint-order:normal;filter:url(#filter424)"
+         y="-528.8609"
+         transform="scale(1,-1)"
+         x="0"><tspan
+           x="444"
+           y="-294.8609"
+           text-anchor="middle"
+           style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;text-anchor:middle;fill:url(#linearGradient423);fill-opacity:1;stroke:url(#radialGradient424);paint-order:normal"
+           id="tspan423">Ion The Dev</tspan></text>
     </g>
   </g>
 </svg>
