@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="671.33929"
+   height="264.07312"
+   viewBox="0 0 671.33929 264.07312"
+   version="1.1"
+   style="color:#000000;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:16px;line-height:18.4px;font-family:Nunito, sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:0px;writing-mode:lr-tb;direction:ltr;baseline-shift:0px;text-anchor:start;clip-rule:nonzero;overflow:hidden;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0px;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+   id="svg4"
+   sodipodi:docname="untitled.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;paint-order:normal"
+     id="defs3">
+    <linearGradient
+       x1="0.87968099"
+       y1="0.5"
+       x2="0.012735172"
+       y2="0.5"
+       id="linearGradient331"
+       style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;paint-order:normal"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         stop-color="#1F202E"
+         offset="0%"
+         style="baseline-shift: 0px; paint-order: normal; stop-color: rgb(31, 32, 46); text-decoration: none solid rgb(0, 0, 0);"
+         id="stop329" />
+      <stop
+         stop-color="#865A3C"
+         offset="0.38581416"
+         style="baseline-shift: 0px; paint-order: normal; stop-color: rgb(134, 90, 60); text-decoration: none solid rgb(0, 0, 0);"
+         id="stop330" />
+      <stop
+         stop-color="#1F202E"
+         offset="100%"
+         style="baseline-shift: 0px; paint-order: normal; stop-color: rgb(31, 32, 46); text-decoration: none solid rgb(0, 0, 0);"
+         id="stop331" />
+    </linearGradient>
+    <linearGradient
+       x1="0.87968099"
+       y1="0.5"
+       x2="0.012735172"
+       y2="0.5"
+       id="linearGradient8"
+       style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;paint-order:normal">
+      <stop
+         stop-color="#1F202E"
+         offset="0"
+         style="stop-color:#1f202e;stop-opacity:0.24765868;"
+         id="stop6" />
+      <stop
+         stop-color="#865A3C"
+         offset="0.67687738"
+         style="stop-color:#865a3c;stop-opacity:0.36090943;"
+         id="stop7" />
+      <stop
+         stop-color="#1F202E"
+         offset="1"
+         style="stop-color:#1f202e;stop-opacity:0.20589356;"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       x1="0.87968099"
+       y1="0.5"
+       x2="0.012735172"
+       y2="0.5"
+       id="linearGradient-1"
+       style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;paint-order:normal"
+       xlink:href="#linearGradient331">
+      <stop
+         stop-color="#1F202E"
+         offset="0%"
+         style="baseline-shift: 0px; paint-order: normal; stop-color: rgb(31, 32, 46); text-decoration: none solid rgb(0, 0, 0);"
+         id="stop1" />
+      <stop
+         stop-color="#865A3C"
+         offset="67.6877392%"
+         style="baseline-shift: 0px; paint-order: normal; stop-color: rgb(134, 90, 60); text-decoration: none solid rgb(0, 0, 0);"
+         id="stop2" />
+      <stop
+         stop-color="#1F202E"
+         offset="100%"
+         style="baseline-shift: 0px; paint-order: normal; stop-color: rgb(31, 32, 46); text-decoration: none solid rgb(0, 0, 0);"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8"
+       id="linearGradient6"
+       x1="198.32977"
+       y1="598.59662"
+       x2="113.96942"
+       y2="598.59662"
+       gradientTransform="matrix(2.7604974,0,0,0.36225356,0,-534.84958)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter256"
+       x="-0.016857213"
+       y="-0.12242775"
+       width="1.0337144"
+       height="1.2448555">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7981576"
+         id="feGaussianBlur256" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter331"
+       x="-0.0089497772"
+       y="-0.25699785"
+       width="1.0178996"
+       height="1.5139957">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7966634"
+         id="feGaussianBlur331" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter332"
+       x="-0.053337103"
+       y="-0.3873678"
+       width="1.1066742"
+       height="1.7747356">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.6894644"
+         id="feGaussianBlur332" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient-1"
+       id="linearGradient2"
+       x1="222.58232"
+       y1="532.51859"
+       x2="129.15844"
+       y2="532.51859"
+       gradientTransform="scale(2.455771,0.4072041)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient-1"
+       id="linearGradient3"
+       x1="201.61365"
+       y1="584.37813"
+       x2="119.2571"
+       y2="584.37813"
+       gradientTransform="scale(2.6949273,0.37106753)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     font-family="Arial-BoldMT, Arial"
+     font-weight="bold"
+     style="font-weight:700;line-height:18.4px;font-family:Arial-BoldMT, Arial;font-feature-settings:normal;font-variation-settings:normal;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;fill:none;fill-rule:evenodd;paint-order:normal"
+     transform="translate(-101.17722,-97.582893)">
+    <rect
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:16px;line-height:18.4px;font-family:Nunito, sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:0px;writing-mode:lr-tb;direction:ltr;baseline-shift:0px;text-anchor:start;clip-rule:nonzero;overflow:hidden;visibility:visible;fill:#0c0c0c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.622809px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0px;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       id="rect8"
+       width="671.33929"
+       height="264.07312"
+       x="101.17722"
+       y="97.582893" />
+    <g
+       id="gh-banner"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:16px;line-height:18.4px;font-family:Arial-BoldMT, Arial;font-feature-settings:normal;font-variation-settings:normal;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:0px;writing-mode:lr-tb;direction:ltr;baseline-shift:0px;text-anchor:start;clip-rule:nonzero;overflow:hidden;visibility:visible;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0px;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto">
+      <text
+         id="gh-title-reflection"
+         fill="url(#linearGradient-1)"
+         font-size="48"
+         style="font-size:48px;line-height:55.2px;font-feature-settings:normal;font-variation-settings:normal;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;display:block;fill:url(#linearGradient2);paint-order:normal;filter:url(#filter256)"><tspan
+           x="444"
+           y="234"
+           text-anchor="middle"
+           style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;text-anchor:middle;fill:url(#linearGradient2);paint-order:normal"
+           id="tspan3">Ion The Dev</tspan></text>
+      <text
+         id="gh-title-reflection-copy"
+         font-size="18"
+         fill="#4D4E56"
+         style="font-size:18px;line-height:20.7px;font-feature-settings:normal;font-variation-settings:normal;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;display:block;fill:#4d4e56;paint-order:normal"
+         y="-48"><tspan
+           x="444"
+           y="261"
+           text-anchor="middle"
+           style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;text-anchor:middle;paint-order:normal"
+           id="tspan4">Making Fear the Crow, Phantom Engine and Moonland Meta</tspan></text>
+      <text
+         id="text5"
+         font-size="18"
+         fill="#4D4E56"
+         style="font-size:18px;line-height:20.7px;font-feature-settings:normal;font-variation-settings:normal;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;display:block;mix-blend-mode:normal;fill:#4d4e56;fill-opacity:0.21585;paint-order:normal;filter:url(#filter331)"
+         y="-584.02283"
+         transform="matrix(1,0,0,-1,0,-10.148744)"
+         x="0.018914096"><tspan
+           x="444.01892"
+           y="-275.02283"
+           text-anchor="middle"
+           style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;text-anchor:middle;fill:#4d4e56;fill-opacity:0.21585;paint-order:normal"
+           id="tspan5">Making Fear the Crow, Phantom Engine and Moonland Meta</tspan></text>
+      <text
+         id="text6"
+         fill="url(#linearGradient-1)"
+         font-size="48"
+         style="font-size:48px;line-height:55.2px;font-feature-settings:normal;font-variation-settings:normal;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;display:inline;fill:url(#linearGradient6);paint-order:normal;filter:url(#filter332)"
+         y="-534.84961"
+         transform="scale(1,-1)"><tspan
+           x="444"
+           y="-300.84958"
+           text-anchor="middle"
+           style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;text-anchor:middle;fill:url(#linearGradient6);paint-order:normal"
+           id="tspan6">Ion The Dev</tspan></text>
+      <text
+         id="text256"
+         fill="url(#linearGradient-1)"
+         font-size="48"
+         style="font-size:48px;line-height:55.2px;font-feature-settings:normal;font-variation-settings:normal;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;display:block;fill:url(#linearGradient3);paint-order:normal"><tspan
+           x="444"
+           y="234"
+           text-anchor="middle"
+           style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;baseline-shift:0px;text-anchor:middle;fill:url(#linearGradient3);paint-order:normal"
+           id="tspan256">Ion The Dev</tspan></text>
+    </g>
+  </g>
+</svg>
